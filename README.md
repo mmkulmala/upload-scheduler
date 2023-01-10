@@ -9,7 +9,7 @@ This application has application.properties file contains the following fields:
 | cron.upload.expr     | Cron expression                                          | * */5 * * * ?                                    |
 | uploadfile.directory | What directory files goto                                | src/main/resources/out_files/              |
 | uploadfile.name      | Name of file (real name also includes date to file name) | some_file.txt                              |
-| uploadfile.url       | What file to upload                                      | https://standards-oui.ieee.org/oui/oui.txt |
+| uploadfile.url       | What file to upload                                      | other_file.txt |
 
 All the fields are needed to run the application.
 
